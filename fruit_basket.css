@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+.heading {
+    width: 65%;
+    font-size: 25px;
+    border-radius: 7px;
+}
+#btn_back_fruit {
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 7px;
+}
